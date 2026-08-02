@@ -1,0 +1,7 @@
+,id,z_inv,h_0,A_sj,bc,storage,a,b,c,name,map_x,map_y
+0,0,10.7,0.001,0.64,False,functional,0,0,1.16,A,0.0,0.0
+1,1,10.4,0.001,0.25,False,functional,0,0,1.16,B,1.0,0.0
+2,2,10.0,0.001,0.25,False,functional,0,0,1.16,C,2.0,-1.0
+3,3,9.5,0.001,0.25,True,functional,0,0,1.16,D,3.0,-2.0
+4,4,10.1,0.001,0.25,False,functional,0,0,1.16,E,2.0,1.0
+5,5,9.3,0.001,0.25,True,functional,0,0,1.16,F,3.0,2.0
