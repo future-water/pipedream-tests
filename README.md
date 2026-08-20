@@ -1,5 +1,11 @@
 # pipedream-tests
 
+Current pipedream branch:
+`pipedream/stability_tests`
+
+Current pipedream commit:
+`1d1001ead4be6495e13fe7dd5343514b0e69ca78`
+
 Test cases:
 - `hillslope_cliff`: A single hillslope terminating in an overflow.
 - `ji`: Test network from original SUPERLINK paper.
